@@ -27,8 +27,8 @@ eso debería darnos una contraseña y un usuario, puede ser user o username
 
 dependiendo de la carpeta a la que estemos accediendo desde nuestro código main.js podemos obtener diferentes datos de inicio de sesión
 en mi caso entré a la carpeta 
-users 
+"users" 
 de la otra carpeta llamada
-nosql_vuln_db 
+"nosql_vuln_db" 
 
 sólo queda copiar y pegar el usuario y contraseña para acceder
