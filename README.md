@@ -5,6 +5,8 @@ grupo 2061
 319091894
 profesor Daniel Fernando Palma López
 
+favor de abrir en modo código
+
 NOSQL injection
 
 para esta aplicación se debe guardar todos los contenidos de la carpeta NoSQL injection
